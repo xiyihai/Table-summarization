@@ -1,0 +1,234 @@
+2,Facebook,"717,086","24,727",C,Top
+4,Google,"572,975","19,757",C,Top
+10,Amazon.com,"359,413","12,393",B,High
+11,Apple Inc.,"357,496","12,327",B,Top
+16,Epic Games,"325,959","11,239",B,Mid
+17,The Walt Disney Company,"309,239","10,663",C,Top
+20,Marvel Studios,"256,056","8,829",C,Mid
+21,Twitter,"251,035","8,656",GA,High
+23,Anthem Inc.,"248,413","8,565",C,Low
+25,McDonald's,"222,321","7,666",B,Top
+27,Microsoft,"213,715","7,369",B,Top
+30,Wal-Mart,"175,779","6,061",B,Top
+32,SpaceX,"163,889","5,651",B,Mid
+33,Warner Bros.,"163,472","5,636",C,High
+34,Nike,"163,464","5,636",C,High
+37,Uber,"160,419","5,531",B,Mid
+38,Berkshire Hathaway,"160,096","5,520",B,Top
+39,Mercedes Benz,"156,925","5,411",C,Mid
+40,Gerdau,"152,289","5,251",Start,Low
+41,MySQL AB,"156,925","5,411",C,Mid
+43,BMW,"150,796","5,199",C,High
+48,Samsung,"144,062","4,967",B,Top
+49,Ford Motor Company,"140,010","4,827",B,Top
+52,Boeing,"135,959","4,688",B,Top
+53,Adidas,"135,210","4,662",C,Mid
+56,Toyota,"132,113","4,555",C,Top
+57,Lamborghini,"129,953","4,481",B,Mid
+59,IBM,"127,299","4,389",B,Top
+63,Starbucks,"122,727","4,231",B,Mid
+65,Nintendo,"115,369","3,978",B,High
+68,Yahoo!,"112,877","3,892",C,Top
+69,General Motors,"112,617","3,883",C,Top
+70,Accenture,"112,501","3,879",B,High
+71,AT&T Inc.,"111,930","3,859",B,Top
+73,Playboy Enterprises,"110,920","3,824",C,Mid
+76,SingTel,"110,920","3,824",C,Mid
+79,PepsiCo,"106,874","3,685",B,Top
+80,JP Morgan Chase,"106,671","3,678",B,Top
+81,American Airlines Group,"106,671","3,678",C,High
+82,Delta Air Lines,"106,271","3,664",C,High
+85,Oracle Corporation,"104,615","3,607",B,High
+89,Canadian Broadcasting Corporation,"101,203","3,489",B,Low
+90,YG Entertainment,"100,650","3,470",Start,High
+92,Vodafone,"99,330","3,425",C,Top
+93,State Bank of India,"99,329","3,425",C,Low
+94,Sony,"98,450","3,394",B,Top
+96,Volkswagen,"97,613","3,365",B,Top
+98,Nokia,"96,752","3,336",B,High
+101,Hindalco,"96,650","3,332",C,Low
+103,Reliance Industries Limited,"95,830","3,304",C,Mid
+105,Daimler AG,"95,548","3,294",C,Top
+110,The Coca-Cola Company,"94,256","3,250",B,Top
+113,General Electric,"94,015","3,241",C,Top
+118,Universal Pictures,"92,410","3,186",C,High
+127,HSBC,"85,626","2,952",B,Top
+128,Rakuten,"83,760","2,888",B,High
+131,IKEA,"82,988","2,861",C,Mid
+133,Intel,"82,581","2,847",B,Top
+135,SAP AG,"82,182","2,833",Start,High
+138,Lockheed Martin,"81,570","2,812",C,Top
+139,eBay,"81,432","2,808",B,Top
+141,Southwest Airlines,"80,634","2,780",C,High
+146,Wells Fargo,"79,042","2,725",B,Top
+148,CNN,"78,958","2,722",B,Mid
+149,Royal Dutch Shell,"78,936","2,721",B,Top
+150,Exxon Mobil,"78,853","2,719",B,Top
+151,Comcast,"78,828","2,718",B,High
+159,Tata Consultancy Services,"76,398","2,634",C,High
+160,Ryanair,"76,271","2,630",C,High
+162,Hewlett-Packard,"75,825","2,614",C,Top
+163,Proctor and Gamble,"75,305","2,596",C,Top
+166,ACE Limited,"75,223","2,593",Start,Low
+167,Costco,"75,065","2,588",B,High
+169,Telstra,"75,223","2,593",Start,Low
+170,Chrysler,"74,867","2,581",C,Top
+171,Syntel Inc.,"75,223","2,593",Start,Low
+173,Foxconn Electronics Inc,"73,796","2,544",Start,Top
+174,Nissan,"73,750","2,543",C,High
+175,American Express,"73,373","2,530",B,High
+176,Universal Music Group,"73,007","2,517",C,Mid
+177,Wipro Technologies Limited,"72,127","2,487",C,Mid
+178,Time Warner Inc.,"73,373","2,530",B,High
+179,BP,"72,712","2,507",B,Top
+180,Valero Energy Corporation,"71,868","2,478",GA,Mid
+181,Manchester United,"71,359","2,460",B,Top
+182,J.Crew,"71,868","2,478",GA,Mid
+183,McKinsey,"71,868","2,478",GA,Mid
+190,Nortel,"70,846","2,442",GA,Low
+193,Bank of America,"70,483","2,430",B,Top
+195,Infosys Technologies Ltd.,"70,315","2,424",C,High
+198,Electronic Arts,"69,469","2,395",B,High
+199,Mozilla,"69,469","2,395",B,High
+201,Dell Inc.,"68,778","2,371",B,Top
+206,AOL,"67,351","2,322",B,Top
+207,Newlog,"68,939","2,377",Stub,Low
+208,SoftBank,"67,072","2,312",B,Mid
+211,Qualcomm,"66,895","2,306",C,Mid
+213,Marriott International,"66,510","2,293",C,Top
+216,Capital One Financial,"66,070","2,278",Start,High
+218,Academi,"65,771","2,267",B,Mid
+220,Maserati,"65,173","2,247",C,Mid
+222,Cisco Systems,"64,977","2,240",B,Top
+225,Tesco,"63,380","2,185",B,Mid
+226,Target Corporation,"63,322","2,183",B,Mid
+228,News Corporation,"63,380","2,185",B,Mid
+237,Kaplan Inc.,"61,014","2,103",Start,Low
+242,Cognizant Technology Solutions,"61,014","2,103",Start,Low
+246,Alcatel-Lucent,"61,014","2,103",Start,Low
+249,Rockstar Games,"59,644","2,056",C,Mid
+255,Blackstone Group,"58,829","2,028",GA,Top
+257,Monsanto,"58,312","2,010",C,Mid
+261,Bayer,"57,658","1,988",C,Mid
+265,Honeywell,"57,076","1,968",B,Top
+269,Mazda,"56,739","1,956",C,High
+273,AMD,"56,398","1,944",B,High
+275,Fiat S.p.A.,"56,430","1,945",B,Low
+286,Telmex,"57,027","1,966",Start,Low
+288,Valve Corporation,"53,695","1,851",B,Mid
+291,Larsen & Toubro,"53,262","1,836",Start,Mid
+292,Mindtree,"53,148","1,832",B,High
+294,Sears,"53,030","1,828",C,Mid
+295,Sega,"52,819","1,821",GA,High
+296,Columbia Pictures,"52,739","1,818",C,High
+297,Lidl,"52,637","1,815",Start,Low
+301,Halliburton,"52,072","1,795",B,High
+304,Under Armour,"51,399","1,772",Start,Low
+306,Eastman Kodak,"51,390","1,772",Start,Low
+311,DHL,"50,747","1,749",Start,High
+314,Tim Hortons,"50,502","1,741",B,Mid
+319,Baidu,"49,901","1,720",C,Mid
+321,Aditya Birla Group,"49,682","1,713",Start,High
+325,Suzuki,"49,110","1,693",Start,High
+328,Barclays,"48,975","1,688",B,High
+329,FedEx,"48,838","1,684",B,High
+336,Morgan Stanley,"48,419","1,669",B,High
+338,Motorola,"48,148","1,660",Start,High
+341,BAE Systems,"47,868","1,650",FA,High
+342,Deutsche Post World Net,"47,569","1,640",C,Mid
+343,Dr. Reddy's,"47,732","1,645",B,Low
+344,Adobe Systems,"47,732","1,645",B,Low
+347,Deutsche Bank,"47,569","1,640",C,Mid
+350,HCL Technologies,"47,223","1,628",C,Mid
+352,Caterpillar Inc.,"47,188","1,627",B,Top
+353,Chipotle Mexican Grill,"47,030","1,621",GA,Low
+357,MetLife,"47,569","1,640",C,Mid
+358,The Travelers Companies,"47,028","1,621",Start,Low
+359,Inchcape plc,"27,787",958,C,Low
+360,Citigroup,"45,991","1,585",B,Top
+362,Nvidia,"45,678","1,575",C,Low
+364,Verizon Communications,"45,622","1,573",C,High
+366,Yum! Brands Inc.,"45,408","1,565",C,High
+368,ConAgra,"45,276","1,561",Start,Low
+369,Polo Ralph Lauren,"45,276","1,561",Start,Low
+371,National Amusements,"47,569","1,640",C,Mid
+372,Pizza Hut,"45,000","1,551",C,Mid
+376,Kroger,"44,472","1,533",Start,Mid
+378,Hugo Boss,"44,375","1,530",Start,Low
+379,Northrop Grumman,"44,368","1,529",B,High
+383,Pfizer,"44,133","1,521",B,High
+385,GlaxoSmithKline,"44,015","1,517",C,High
+389,Capgemini,"43,692","1,506",Start,Mid
+393,NBCUniversal,"43,544","1,501",B,Top
+396,Tradeking,"43,193","1,489",C,Low
+403,Panasonic,"42,815","1,476",C,Mid
+420,Live Nation Entertainment,"41,505","1,431",C,Low
+421,Reuters,"41,420","1,428",C,High
+450,UBS AG,"39,640","1,366",GA,Top
+459,Novartis,"39,115","1,348",C,Mid
+465,GVK Group,"38,259","1,319",Start,Low
+468,Supervalu Inc.,"38,157","1,315",C,Low
+472,SAS Institute,"37,461","1,291",C,Low
+473,Statoil,"38,157","1,315",C,Low
+477,United Parcel Service,"37,447","1,291",B,High
+479,Whole Foods Market,"37,377","1,288",B,High
+486,Hasbro,"36,832","1,270",C,High
+512,Royal Bank of Scotland,"37,012","1,276",Start,Mid
+514,Macy's,"35,203","1,213",Start,Mid
+515,Temasek Holdings,"34,921","1,204",B,High
+525,GMR Group,"34,571","1,192",Start,Low
+528,GMA Network,"34,563","1,191",C,Mid
+530,Dow Inc.,"34,438","1,187",Start,Low
+553,Accor,"33,438","1,153",C,High
+566,Vans,"32,844","1,132",Start,Low
+569,Walgreen Company,"32,800","1,131",B,High
+572,MGA Entertainment,"32,804","1,131",Start,Low
+576,Valeant Pharmaceuticals,"32,676","1,126",C,Low
+581,Kmart,"32,486","1,120",B,High
+584,Viacom,"32,171","1,109",C,Mid
+589,Juniper Networks,"32,188","1,109",Start,Low
+590,Ericsson,"32,171","1,109",C,Mid
+591,Alcoa,"32,171","1,109",C,Mid
+596,Rite Aid Corporation,"32,188","1,109",Start,Low
+599,Fidelity Investments,"31,805","1,096",C,Mid
+601,DineEquity,"31,673","1,092",Start,Low
+604,Tracinda Corporation,"31,673","1,092",Start,Low
+605,FUBU,"31,839","1,097",Start,Low
+608,TJX,"31,805","1,096",C,Mid
+611,Best Buy,"31,305","1,079",C,Mid
+620,Boston Dynamics,"31,080","1,071",Start,Low
+626,Turner Broadcasting System,"30,721","1,059",C,High
+638,Sun Hung Kai Properties Ltd.,"52,637","1,815",Start,Low
+642,Sun Microsystems,"30,287","1,044",C,Mid
+648,The Washington Post Company,"30,075","1,037",C,Low
+654,Henderson Land Development Co. Ltd.,"30,224","1,042",Start,Low
+655,Washington Mutual,"30,115","1,038",C,Low
+656,Seagate Technology,"30,115","1,038",C,Low
+657,Simon Property Group,"30,115","1,038",C,Low
+658,Jefferies & Company,"29,745","1,025",C,Low
+659,General Dynamics,"29,745","1,025",C,Low
+662,Merrill Lynch,"29,713","1,024",C,Mid
+680,BNY Mellon,"29,314","1,010",B,Low
+684,Boston Consulting Group,"29,080","1,002",C,Mid
+690,ITC Limited,"28,991",999,Start,Low
+709,NIIT,"28,070",967,C,High
+716,Sirius Satellite Radio,"28,106",969,C,Mid
+717,Miramax,"28,076",968,C,Low
+718,Canonical Ltd.,"28,070",967,C,High
+727,Vulcan Inc.,"27,787",958,C,Low
+733,New York Times Company,"28,070",967,C,High
+734,Office Depot,"27,810",958,Start,Low
+784,Tata Steel,"25,822",890,C,Mid
+785,DLF Limited,"25,822",890,C,Mid
+866,CBS Corporation,"24,175",833,C,High
+894,BHP Billiton,"23,497",810,C,Mid
+898,Formula One Management,"23,476",809,Start,Low
+920,World Wrestling Entertainment,"23,073",795,C,Mid
+938,Arcelor Mittal,"22,775",785,C,Top
+942,EADS,"22,579",778,B,High
+944,Royal Bank of Canada,"22,537",777,Start,Low
+948,Royal Ahold N.V.,"22,469",774,Start,Low
+951,Alliance Boots,"22,298",768,C,Low
+952,Renault,"22,298",768,C,Low
+968,Banco Bilbao Vizcaya Argentaria,"22,134",763,Start,Low
+969,Telefonica,"22,134",763,Start,Low

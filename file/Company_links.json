@@ -1,0 +1,2687 @@
+[
+    {
+        "name": "Samsung",
+        "inlink_number": 8,
+        "inlinks": [
+            "Apple Inc.",
+            "Nokia",
+            "Intel",
+            "Dell Inc.",
+            "Qualcomm",
+            "Eastman Kodak",
+            "Hugo Boss",
+            "FUBU"
+        ]
+    },
+    {
+        "name": "Suzuki",
+        "inlink_number": 2,
+        "inlinks": [
+            "Toyota",
+            "Nissan"
+        ]
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "inlink_number": 3,
+        "inlinks": [
+            "JP Morgan Chase",
+            "Pfizer",
+            "Novartis"
+        ]
+    },
+    {
+        "name": "Temasek Holdings",
+        "inlink_number": 5,
+        "inlinks": [
+            "SingTel",
+            "Bank of America",
+            "Dell Inc.",
+            "Barclays",
+            "Merrill Lynch"
+        ]
+    },
+    {
+        "name": "Facebook",
+        "inlink_number": 23,
+        "inlinks": [
+            "Samsung",
+            "Google",
+            "Amazon.com",
+            "Apple Inc.",
+            "Twitter",
+            "McDonald's",
+            "Microsoft",
+            "Adidas",
+            "Accenture",
+            "Playboy Enterprises",
+            "Sun Microsystems",
+            "Universal Music Group",
+            "Intel",
+            "Manchester United",
+            "J.Crew",
+            "News Corporation",
+            "Cognizant Technology Solutions",
+            "Tim Hortons",
+            "Morgan Stanley",
+            "Hasbro",
+            "GMA Network",
+            "Walgreen Company",
+            "World Wrestling Entertainment"
+        ]
+    },
+    {
+        "name": "Google",
+        "inlink_number": 28,
+        "inlinks": [
+            "Facebook",
+            "Amazon.com",
+            "Apple Inc.",
+            "Epic Games",
+            "Twitter",
+            "Microsoft",
+            "SpaceX",
+            "Starbucks",
+            "Yahoo!",
+            "Oracle Corporation",
+            "Nokia",
+            "Reliance Industries Limited",
+            "NBCUniversal",
+            "Intel",
+            "American Express",
+            "Mozilla",
+            "Dell Inc.",
+            "AOL",
+            "SoftBank",
+            "Qualcomm",
+            "Baidu",
+            "Motorola",
+            "Nvidia",
+            "SAS Institute",
+            "Best Buy",
+            "Miramax",
+            "Vulcan Inc.",
+            "Telefonica"
+        ]
+    },
+    {
+        "name": "Amazon.com",
+        "inlink_number": 19,
+        "inlinks": [
+            "Facebook",
+            "Google",
+            "Apple Inc.",
+            "Microsoft",
+            "Wal-Mart",
+            "Nike",
+            "Berkshire Hathaway",
+            "Rakuten",
+            "SoftBank",
+            "FedEx",
+            "The Washington Post Company",
+            "Polo Ralph Lauren",
+            "United Parcel Service",
+            "Whole Foods Market",
+            "Viacom",
+            "Rite Aid Corporation",
+            "Simon Property Group",
+            "Office Depot",
+            "CBS Corporation"
+        ]
+    },
+    {
+        "name": "Apple Inc.",
+        "inlink_number": 38,
+        "inlinks": [
+            "Samsung",
+            "Facebook",
+            "Google",
+            "Amazon.com",
+            "Epic Games",
+            "Microsoft",
+            "Nike",
+            "Berkshire Hathaway",
+            "IBM",
+            "Starbucks",
+            "Accenture",
+            "AT&T Inc.",
+            "Playboy Enterprises",
+            "SingTel",
+            "Sun Microsystems",
+            "Sony",
+            "Nokia",
+            "NBCUniversal",
+            "IKEA",
+            "Intel",
+            "SAP AG",
+            "CNN",
+            "Hewlett-Packard",
+            "American Express",
+            "Nortel",
+            "Electronic Arts",
+            "Mozilla",
+            "Dell Inc.",
+            "SoftBank",
+            "Qualcomm",
+            "Target Corporation",
+            "Eastman Kodak",
+            "Motorola",
+            "Adobe Systems",
+            "Nvidia",
+            "Verizon Communications",
+            "Best Buy",
+            "Sirius Satellite Radio"
+        ]
+    },
+    {
+        "name": "Epic Games",
+        "inlink_number": 2,
+        "inlinks": [
+            "Apple Inc.",
+            "Electronic Arts"
+        ]
+    },
+    {
+        "name": "The Walt Disney Company",
+        "inlink_number": 15,
+        "inlinks": [
+            "Marvel Studios",
+            "Twitter",
+            "Microsoft",
+            "Warner Bros.",
+            "Ford Motor Company",
+            "Universal Pictures",
+            "NBCUniversal",
+            "Comcast",
+            "Target Corporation",
+            "News Corporation",
+            "MetLife",
+            "Kmart",
+            "Viacom",
+            "Miramax",
+            "CBS Corporation"
+        ]
+    },
+    {
+        "name": "Marvel Studios",
+        "inlink_number": 2,
+        "inlinks": [
+            "The Walt Disney Company",
+            "Universal Pictures"
+        ]
+    },
+    {
+        "name": "Twitter",
+        "inlink_number": 14,
+        "inlinks": [
+            "Facebook",
+            "Amazon.com",
+            "Apple Inc.",
+            "The Walt Disney Company",
+            "Microsoft",
+            "Uber",
+            "Starbucks",
+            "Playboy Enterprises",
+            "CNN",
+            "J.Crew",
+            "Tim Hortons",
+            "Baidu",
+            "Chipotle Mexican Grill",
+            "Valeant Pharmaceuticals"
+        ]
+    },
+    {
+        "name": "Anthem Inc.",
+        "inlink_number": 2,
+        "inlinks": [
+            "IBM",
+            "Exxon Mobil"
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "inlink_number": 8,
+        "inlinks": [
+            "Amazon.com",
+            "Wal-Mart",
+            "Starbucks",
+            "American Express",
+            "BP",
+            "Tim Hortons",
+            "Chipotle Mexican Grill",
+            "Royal Ahold N.V."
+        ]
+    },
+    {
+        "name": "Microsoft",
+        "inlink_number": 39,
+        "inlinks": [
+            "Facebook",
+            "Google",
+            "Amazon.com",
+            "Apple Inc.",
+            "Twitter",
+            "Berkshire Hathaway",
+            "IBM",
+            "Starbucks",
+            "Nintendo",
+            "Yahoo!",
+            "AT&T Inc.",
+            "JP Morgan Chase",
+            "Sun Microsystems",
+            "Nokia",
+            "Intel",
+            "SAP AG",
+            "eBay",
+            "Comcast",
+            "Hewlett-Packard",
+            "Nortel",
+            "Dell Inc.",
+            "AOL",
+            "SoftBank",
+            "Cisco Systems",
+            "Target Corporation",
+            "AMD",
+            "Valve Corporation",
+            "Sega",
+            "Eastman Kodak",
+            "Baidu",
+            "Adobe Systems",
+            "Nvidia",
+            "Juniper Networks",
+            "Ericsson",
+            "Best Buy",
+            "NIIT",
+            "Canonical Ltd.",
+            "Vulcan Inc.",
+            "Renault"
+        ]
+    },
+    {
+        "name": "Wal-Mart",
+        "inlink_number": 20,
+        "inlinks": [
+            "Amazon.com",
+            "McDonald's",
+            "Berkshire Hathaway",
+            "NBCUniversal",
+            "Rakuten",
+            "SAP AG",
+            "Costco",
+            "American Express",
+            "Dell Inc.",
+            "Capital One Financial",
+            "Tesco",
+            "Target Corporation",
+            "Sears",
+            "ConAgra",
+            "Kroger",
+            "Supervalu Inc.",
+            "Walgreen Company",
+            "Kmart",
+            "Rite Aid Corporation",
+            "Washington Mutual"
+        ]
+    },
+    {
+        "name": "SpaceX",
+        "inlink_number": 1,
+        "inlinks": [
+            "Boston Dynamics"
+        ]
+    },
+    {
+        "name": "Warner Bros.",
+        "inlink_number": 9,
+        "inlinks": [
+            "Epic Games",
+            "The Walt Disney Company",
+            "AT&T Inc.",
+            "Columbia Pictures",
+            "Universal Pictures",
+            "AOL",
+            "Viacom",
+            "Turner Broadcasting System",
+            "CBS Corporation"
+        ]
+    },
+    {
+        "name": "Nike",
+        "inlink_number": 9,
+        "inlinks": [
+            "Amazon.com",
+            "Apple Inc.",
+            "Adidas",
+            "Starbucks",
+            "Manchester United",
+            "J.Crew",
+            "Target Corporation",
+            "Under Armour",
+            "Hugo Boss"
+        ]
+    },
+    {
+        "name": "Uber",
+        "inlink_number": 6,
+        "inlinks": [
+            "Amazon.com",
+            "Wal-Mart",
+            "Ford Motor Company",
+            "Toyota",
+            "BP",
+            "SoftBank"
+        ]
+    },
+    {
+        "name": "Berkshire Hathaway",
+        "inlink_number": 8,
+        "inlinks": [
+            "Microsoft",
+            "IBM",
+            "Proctor and Gamble",
+            "American Express",
+            "Bank of America",
+            "Tradeking",
+            "Valeant Pharmaceuticals",
+            "Jefferies & Company"
+        ]
+    },
+    {
+        "name": "Mercedes Benz",
+        "inlink_number": 6,
+        "inlinks": [
+            "Daimler AG",
+            "BMW",
+            "General Motors",
+            "Nissan",
+            "Maserati",
+            "Sirius Satellite Radio"
+        ]
+    },
+    {
+        "name": "Daimler AG",
+        "inlink_number": 5,
+        "inlinks": [
+            "Mercedes Benz",
+            "Volkswagen",
+            "Nokia",
+            "Nissan",
+            "Renault"
+        ]
+    },
+    {
+        "name": "Gerdau",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "MySQL AB",
+        "inlink_number": 2,
+        "inlinks": [
+            "Oracle Corporation",
+            "Sun Microsystems"
+        ]
+    },
+    {
+        "name": "BMW",
+        "inlink_number": 7,
+        "inlinks": [
+            "Daimler AG",
+            "Lamborghini",
+            "Volkswagen",
+            "Nokia",
+            "Sirius Satellite Radio",
+            "Formula One Management",
+            "Renault"
+        ]
+    },
+    {
+        "name": "Samsung",
+        "inlink_number": 8,
+        "inlinks": [
+            "Apple Inc.",
+            "Nokia",
+            "Intel",
+            "Dell Inc.",
+            "Qualcomm",
+            "Eastman Kodak",
+            "Hugo Boss",
+            "FUBU"
+        ]
+    },
+    {
+        "name": "Ford Motor Company",
+        "inlink_number": 15,
+        "inlinks": [
+            "Facebook",
+            "Apple Inc.",
+            "McDonald's",
+            "BMW",
+            "Toyota",
+            "General Motors",
+            "Volkswagen",
+            "HSBC",
+            "Nissan",
+            "Qualcomm",
+            "Mazda",
+            "Pizza Hut",
+            "Tracinda Corporation",
+            "Sirius Satellite Radio",
+            "Formula One Management"
+        ]
+    },
+    {
+        "name": "Boeing",
+        "inlink_number": 10,
+        "inlinks": [
+            "SpaceX",
+            "General Motors",
+            "Intel",
+            "Lockheed Martin",
+            "Ryanair",
+            "BAE Systems",
+            "Northrop Grumman",
+            "Dow Inc.",
+            "General Dynamics",
+            "EADS"
+        ]
+    },
+    {
+        "name": "Adidas",
+        "inlink_number": 4,
+        "inlinks": [
+            "Facebook",
+            "Nike",
+            "Manchester United",
+            "Under Armour"
+        ]
+    },
+    {
+        "name": "Toyota",
+        "inlink_number": 14,
+        "inlinks": [
+            "Suzuki",
+            "Uber",
+            "Daimler AG",
+            "BMW",
+            "Ford Motor Company",
+            "General Motors",
+            "Nissan",
+            "SoftBank",
+            "Mazda",
+            "FedEx",
+            "Inchcape plc",
+            "Nvidia",
+            "Panasonic",
+            "Sirius Satellite Radio"
+        ]
+    },
+    {
+        "name": "Lamborghini",
+        "inlink_number": 1,
+        "inlinks": [
+            "Volkswagen"
+        ]
+    },
+    {
+        "name": "IBM",
+        "inlink_number": 31,
+        "inlinks": [
+            "Google",
+            "Apple Inc.",
+            "Twitter",
+            "Microsoft",
+            "Wal-Mart",
+            "Nintendo",
+            "JP Morgan Chase",
+            "General Electric",
+            "Rakuten",
+            "Intel",
+            "SAP AG",
+            "eBay",
+            "Hewlett-Packard",
+            "McKinsey",
+            "Dell Inc.",
+            "AOL",
+            "Target Corporation",
+            "Cognizant Technology Solutions",
+            "Blackstone Group",
+            "Honeywell",
+            "AMD",
+            "Sears",
+            "Under Armour",
+            "Morgan Stanley",
+            "Motorola",
+            "HCL Technologies",
+            "UBS AG",
+            "Juniper Networks",
+            "TJX",
+            "Seagate Technology",
+            "Simon Property Group"
+        ]
+    },
+    {
+        "name": "Starbucks",
+        "inlink_number": 12,
+        "inlinks": [
+            "Facebook",
+            "Amazon.com",
+            "Twitter",
+            "Berkshire Hathaway",
+            "PepsiCo",
+            "Costco",
+            "American Express",
+            "J.Crew",
+            "Target Corporation",
+            "Tim Hortons",
+            "Kroger",
+            "Washington Mutual"
+        ]
+    },
+    {
+        "name": "Nintendo",
+        "inlink_number": 9,
+        "inlinks": [
+            "Microsoft",
+            "Mercedes Benz",
+            "IBM",
+            "Sony",
+            "Nokia",
+            "Target Corporation",
+            "AMD",
+            "Valve Corporation",
+            "Sega"
+        ]
+    },
+    {
+        "name": "Yahoo!",
+        "inlink_number": 16,
+        "inlinks": [
+            "Google",
+            "Apple Inc.",
+            "Microsoft",
+            "Wal-Mart",
+            "IBM",
+            "Starbucks",
+            "eBay",
+            "Costco",
+            "AOL",
+            "SoftBank",
+            "Cisco Systems",
+            "Target Corporation",
+            "Verizon Communications",
+            "Pfizer",
+            "Whole Foods Market",
+            "Henderson Land Development Co. Ltd."
+        ]
+    },
+    {
+        "name": "General Motors",
+        "inlink_number": 20,
+        "inlinks": [
+            "Samsung",
+            "Suzuki",
+            "Daimler AG",
+            "BMW",
+            "Ford Motor Company",
+            "Toyota",
+            "Exxon Mobil",
+            "Nissan",
+            "Manchester United",
+            "McKinsey",
+            "Cisco Systems",
+            "Blackstone Group",
+            "Mazda",
+            "Fiat S.p.A.",
+            "Morgan Stanley",
+            "Tradeking",
+            "General Dynamics",
+            "BNY Mellon",
+            "World Wrestling Entertainment",
+            "Renault"
+        ]
+    },
+    {
+        "name": "Accenture",
+        "inlink_number": 5,
+        "inlinks": [
+            "Microsoft",
+            "JP Morgan Chase",
+            "SAP AG",
+            "Tata Consultancy Services",
+            "Cognizant Technology Solutions"
+        ]
+    },
+    {
+        "name": "AT&T Inc.",
+        "inlink_number": 20,
+        "inlinks": [
+            "Wal-Mart",
+            "Warner Bros.",
+            "IBM",
+            "Starbucks",
+            "General Motors",
+            "Vodafone",
+            "Sony",
+            "Nokia",
+            "NBCUniversal",
+            "CNN",
+            "Comcast",
+            "Dell Inc.",
+            "Qualcomm",
+            "Alcatel-Lucent",
+            "Telmex",
+            "Verizon Communications",
+            "Viacom",
+            "Juniper Networks",
+            "Turner Broadcasting System",
+            "CBS Corporation"
+        ]
+    },
+    {
+        "name": "Playboy Enterprises",
+        "inlink_number": 2,
+        "inlinks": [
+            "News Corporation",
+            "Rockstar Games"
+        ]
+    },
+    {
+        "name": "SingTel",
+        "inlink_number": 1,
+        "inlinks": [
+            "Telstra"
+        ]
+    },
+    {
+        "name": "PepsiCo",
+        "inlink_number": 10,
+        "inlinks": [
+            "Amazon.com",
+            "Wal-Mart",
+            "Starbucks",
+            "JP Morgan Chase",
+            "The Coca-Cola Company",
+            "Electronic Arts",
+            "Yum! Brands Inc.",
+            "ConAgra",
+            "Pizza Hut",
+            "DLF Limited"
+        ]
+    },
+    {
+        "name": "JP Morgan Chase",
+        "inlink_number": 13,
+        "inlinks": [
+            "eBay",
+            "Wells Fargo",
+            "American Express",
+            "Bank of America",
+            "SoftBank",
+            "Capital One Financial",
+            "Sears",
+            "Morgan Stanley",
+            "MetLife",
+            "Citigroup",
+            "UBS AG",
+            "Washington Mutual",
+            "Formula One Management"
+        ]
+    },
+    {
+        "name": "American Airlines Group",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Delta Air Lines",
+        "inlink_number": 3,
+        "inlinks": [
+            "Berkshire Hathaway",
+            "American Express",
+            "EADS"
+        ]
+    },
+    {
+        "name": "Oracle Corporation",
+        "inlink_number": 10,
+        "inlinks": [
+            "Google",
+            "MySQL AB",
+            "Sun Microsystems",
+            "SAP AG",
+            "Hewlett-Packard",
+            "Mozilla",
+            "Target Corporation",
+            "SAS Institute",
+            "Juniper Networks",
+            "NIIT"
+        ]
+    },
+    {
+        "name": "Sun Microsystems",
+        "inlink_number": 11,
+        "inlinks": [
+            "Facebook",
+            "Google",
+            "Apple Inc.",
+            "MySQL AB",
+            "Oracle Corporation",
+            "Mozilla",
+            "AMD",
+            "Motorola",
+            "Nvidia",
+            "Juniper Networks",
+            "NIIT"
+        ]
+    },
+    {
+        "name": "Canadian Broadcasting Corporation",
+        "inlink_number": 8,
+        "inlinks": [
+            "The Walt Disney Company",
+            "Wal-Mart",
+            "Tata Consultancy Services",
+            "Nortel",
+            "Monsanto",
+            "Tim Hortons",
+            "Royal Bank of Canada",
+            "Sirius Satellite Radio"
+        ]
+    },
+    {
+        "name": "YG Entertainment",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Vodafone",
+        "inlink_number": 7,
+        "inlinks": [
+            "GlaxoSmithKline",
+            "Twitter",
+            "Nokia",
+            "Royal Dutch Shell",
+            "Manchester United",
+            "SoftBank",
+            "Verizon Communications"
+        ]
+    },
+    {
+        "name": "State Bank of India",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Sony",
+        "inlink_number": 21,
+        "inlinks": [
+            "Samsung",
+            "Epic Games",
+            "Microsoft",
+            "Nintendo",
+            "Sun Microsystems",
+            "Columbia Pictures",
+            "The Coca-Cola Company",
+            "Universal Music Group",
+            "Hewlett-Packard",
+            "Nortel",
+            "Dell Inc.",
+            "Qualcomm",
+            "News Corporation",
+            "Blackstone Group",
+            "AMD",
+            "Sega",
+            "Eastman Kodak",
+            "Nvidia",
+            "Panasonic",
+            "Ericsson",
+            "Best Buy"
+        ]
+    },
+    {
+        "name": "Columbia Pictures",
+        "inlink_number": 6,
+        "inlinks": [
+            "The Walt Disney Company",
+            "Marvel Studios",
+            "Warner Bros.",
+            "Sony",
+            "The Coca-Cola Company",
+            "Panasonic"
+        ]
+    },
+    {
+        "name": "Volkswagen",
+        "inlink_number": 6,
+        "inlinks": [
+            "Suzuki",
+            "Ford Motor Company",
+            "General Motors",
+            "Maserati",
+            "Sirius Satellite Radio",
+            "Renault"
+        ]
+    },
+    {
+        "name": "Nokia",
+        "inlink_number": 11,
+        "inlinks": [
+            "Samsung",
+            "Apple Inc.",
+            "Microsoft",
+            "Daimler AG",
+            "Sony",
+            "Royal Dutch Shell",
+            "Electronic Arts",
+            "Qualcomm",
+            "Alcatel-Lucent",
+            "Motorola",
+            "Ericsson"
+        ]
+    },
+    {
+        "name": "Hindalco",
+        "inlink_number": 1,
+        "inlinks": [
+            "Aditya Birla Group"
+        ]
+    },
+    {
+        "name": "Reliance Industries Limited",
+        "inlink_number": 2,
+        "inlinks": [
+            "Tata Consultancy Services",
+            "BP"
+        ]
+    },
+    {
+        "name": "The Coca-Cola Company",
+        "inlink_number": 8,
+        "inlinks": [
+            "Facebook",
+            "Apple Inc.",
+            "The Walt Disney Company",
+            "Berkshire Hathaway",
+            "PepsiCo",
+            "JP Morgan Chase",
+            "Columbia Pictures",
+            "Inchcape plc"
+        ]
+    },
+    {
+        "name": "General Electric",
+        "inlink_number": 19,
+        "inlinks": [
+            "Samsung",
+            "The Walt Disney Company",
+            "Microsoft",
+            "General Motors",
+            "Accenture",
+            "Vodafone",
+            "Universal Music Group",
+            "Universal Pictures",
+            "NBCUniversal",
+            "Comcast",
+            "Nortel",
+            "Capital One Financial",
+            "Honeywell",
+            "Sega",
+            "Motorola",
+            "MetLife",
+            "Panasonic",
+            "Alcoa",
+            "Merrill Lynch"
+        ]
+    },
+    {
+        "name": "Universal Music Group",
+        "inlink_number": 2,
+        "inlinks": [
+            "NBCUniversal",
+            "Panasonic"
+        ]
+    },
+    {
+        "name": "Universal Pictures",
+        "inlink_number": 11,
+        "inlinks": [
+            "The Walt Disney Company",
+            "Marvel Studios",
+            "Warner Bros.",
+            "Columbia Pictures",
+            "General Electric",
+            "Universal Music Group",
+            "NBCUniversal",
+            "Comcast",
+            "Panasonic",
+            "Hasbro",
+            "Turner Broadcasting System"
+        ]
+    },
+    {
+        "name": "NBCUniversal",
+        "inlink_number": 11,
+        "inlinks": [
+            "Twitter",
+            "Microsoft",
+            "JP Morgan Chase",
+            "Canadian Broadcasting Corporation",
+            "General Electric",
+            "Universal Music Group",
+            "Universal Pictures",
+            "CNN",
+            "Comcast",
+            "News Corporation",
+            "World Wrestling Entertainment"
+        ]
+    },
+    {
+        "name": "HSBC",
+        "inlink_number": 3,
+        "inlinks": [
+            "Capital One Financial",
+            "Morgan Stanley",
+            "Royal Bank of Scotland"
+        ]
+    },
+    {
+        "name": "Rakuten",
+        "inlink_number": 2,
+        "inlinks": [
+            "Wal-Mart",
+            "eBay"
+        ]
+    },
+    {
+        "name": "IKEA",
+        "inlink_number": 1,
+        "inlinks": [
+            "Pizza Hut"
+        ]
+    },
+    {
+        "name": "Intel",
+        "inlink_number": 13,
+        "inlinks": [
+            "Samsung",
+            "Facebook",
+            "Apple Inc.",
+            "Sun Microsystems",
+            "Nokia",
+            "Reliance Industries Limited",
+            "Electronic Arts",
+            "Dell Inc.",
+            "Cisco Systems",
+            "AMD",
+            "Adobe Systems",
+            "Nvidia",
+            "Ericsson"
+        ]
+    },
+    {
+        "name": "SAP AG",
+        "inlink_number": 1,
+        "inlinks": [
+            "Hewlett-Packard"
+        ]
+    },
+    {
+        "name": "Lockheed Martin",
+        "inlink_number": 5,
+        "inlinks": [
+            "SpaceX",
+            "General Motors",
+            "Academi",
+            "BAE Systems",
+            "Northrop Grumman"
+        ]
+    },
+    {
+        "name": "eBay",
+        "inlink_number": 3,
+        "inlinks": [
+            "Facebook",
+            "Amazon.com",
+            "Hewlett-Packard"
+        ]
+    },
+    {
+        "name": "Wells Fargo",
+        "inlink_number": 9,
+        "inlinks": [
+            "Berkshire Hathaway",
+            "JP Morgan Chase",
+            "General Electric",
+            "American Express",
+            "Bank of America",
+            "Barclays",
+            "Citigroup",
+            "UBS AG",
+            "BNY Mellon"
+        ]
+    },
+    {
+        "name": "CNN",
+        "inlink_number": 45,
+        "inlinks": [
+            "Facebook",
+            "Google",
+            "Apple Inc.",
+            "Epic Games",
+            "Twitter",
+            "Uber",
+            "BMW",
+            "Toyota",
+            "Starbucks",
+            "Yahoo!",
+            "General Motors",
+            "Accenture",
+            "AT&T Inc.",
+            "Playboy Enterprises",
+            "Delta Air Lines",
+            "Canadian Broadcasting Corporation",
+            "Nokia",
+            "Wells Fargo",
+            "Royal Dutch Shell",
+            "Exxon Mobil",
+            "Comcast",
+            "AOL",
+            "Marriott International",
+            "Capital One Financial",
+            "Maserati",
+            "News Corporation",
+            "Sega",
+            "Halliburton",
+            "Morgan Stanley",
+            "Chipotle Mexican Grill",
+            "Citigroup",
+            "Kroger",
+            "Northrop Grumman",
+            "Pfizer",
+            "United Parcel Service",
+            "Walgreen Company",
+            "Juniper Networks",
+            "Fidelity Investments",
+            "Tracinda Corporation",
+            "Turner Broadcasting System",
+            "Washington Mutual",
+            "Merrill Lynch",
+            "BNY Mellon",
+            "BHP Billiton",
+            "World Wrestling Entertainment"
+        ]
+    },
+    {
+        "name": "Royal Dutch Shell",
+        "inlink_number": 7,
+        "inlinks": [
+            "Samsung",
+            "IBM",
+            "Sun Microsystems",
+            "Exxon Mobil",
+            "BP",
+            "Statoil",
+            "BHP Billiton"
+        ]
+    },
+    {
+        "name": "Exxon Mobil",
+        "inlink_number": 6,
+        "inlinks": [
+            "Microsoft",
+            "Sun Microsystems",
+            "Royal Dutch Shell",
+            "Valero Energy Corporation",
+            "Tesco",
+            "Macy's"
+        ]
+    },
+    {
+        "name": "Comcast",
+        "inlink_number": 10,
+        "inlinks": [
+            "The Walt Disney Company",
+            "Canadian Broadcasting Corporation",
+            "General Electric",
+            "Universal Pictures",
+            "NBCUniversal",
+            "AOL",
+            "Qualcomm",
+            "Verizon Communications",
+            "Panasonic",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "Tata Steel",
+        "inlink_number": 1,
+        "inlinks": [
+            "Tata Consultancy Services"
+        ]
+    },
+    {
+        "name": "Tata Consultancy Services",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Ryanair",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Hewlett-Packard",
+        "inlink_number": 9,
+        "inlinks": [
+            "Facebook",
+            "MySQL AB",
+            "Oracle Corporation",
+            "Intel",
+            "SAP AG",
+            "AMD",
+            "Eastman Kodak",
+            "Motorola",
+            "Nvidia"
+        ]
+    },
+    {
+        "name": "Proctor and Gamble",
+        "inlink_number": 7,
+        "inlinks": [
+            "Wal-Mart",
+            "Berkshire Hathaway",
+            "Costco",
+            "ConAgra",
+            "Polo Ralph Lauren",
+            "Pfizer",
+            "Alcoa"
+        ]
+    },
+    {
+        "name": "ACE Limited",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Costco",
+        "inlink_number": 6,
+        "inlinks": [
+            "Wal-Mart",
+            "American Express",
+            "Dell Inc.",
+            "Kroger",
+            "Kmart",
+            "Washington Mutual"
+        ]
+    },
+    {
+        "name": "Telstra",
+        "inlink_number": 1,
+        "inlinks": [
+            "News Corporation"
+        ]
+    },
+    {
+        "name": "Nissan",
+        "inlink_number": 5,
+        "inlinks": [
+            "Daimler AG",
+            "Ford Motor Company",
+            "IKEA",
+            "Mazda",
+            "Renault"
+        ]
+    },
+    {
+        "name": "American Express",
+        "inlink_number": 11,
+        "inlinks": [
+            "Twitter",
+            "Nike",
+            "Berkshire Hathaway",
+            "The Coca-Cola Company",
+            "Wells Fargo",
+            "Costco",
+            "Capital One Financial",
+            "Macy's",
+            "Viacom",
+            "Rite Aid Corporation",
+            "BNY Mellon"
+        ]
+    },
+    {
+        "name": "BP",
+        "inlink_number": 12,
+        "inlinks": [
+            "Samsung",
+            "Sun Microsystems",
+            "Volkswagen",
+            "Reliance Industries Limited",
+            "Royal Dutch Shell",
+            "Exxon Mobil",
+            "ACE Limited",
+            "Tesco",
+            "Monsanto",
+            "Halliburton",
+            "Statoil",
+            "BHP Billiton"
+        ]
+    },
+    {
+        "name": "Valero Energy Corporation",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Manchester United",
+        "inlink_number": 1,
+        "inlinks": [
+            "JP Morgan Chase"
+        ]
+    },
+    {
+        "name": "J.Crew",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "McKinsey",
+        "inlink_number": 5,
+        "inlinks": [
+            "Wal-Mart",
+            "Royal Dutch Shell",
+            "Citigroup",
+            "Boston Consulting Group",
+            "Arcelor Mittal"
+        ]
+    },
+    {
+        "name": "Nortel",
+        "inlink_number": 5,
+        "inlinks": [
+            "Qualcomm",
+            "Cisco Systems",
+            "Alcatel-Lucent",
+            "Juniper Networks",
+            "Ericsson"
+        ]
+    },
+    {
+        "name": "Bank of America",
+        "inlink_number": 16,
+        "inlinks": [
+            "Wal-Mart",
+            "Berkshire Hathaway",
+            "Daimler AG",
+            "JP Morgan Chase",
+            "HSBC",
+            "Wells Fargo",
+            "Royal Dutch Shell",
+            "American Express",
+            "Dell Inc.",
+            "Capital One Financial",
+            "Morgan Stanley",
+            "Deutsche Bank",
+            "Citigroup",
+            "UBS AG",
+            "Merrill Lynch",
+            "BNY Mellon"
+        ]
+    },
+    {
+        "name": "Electronic Arts",
+        "inlink_number": 4,
+        "inlinks": [
+            "Epic Games",
+            "Intel",
+            "Valve Corporation",
+            "Hasbro"
+        ]
+    },
+    {
+        "name": "Mozilla",
+        "inlink_number": 2,
+        "inlinks": [
+            "Facebook",
+            "Google"
+        ]
+    },
+    {
+        "name": "Dell Inc.",
+        "inlink_number": 10,
+        "inlinks": [
+            "Apple Inc.",
+            "MySQL AB",
+            "Intel",
+            "Hewlett-Packard",
+            "Cisco Systems",
+            "Alcatel-Lucent",
+            "Blackstone Group",
+            "AMD",
+            "HCL Technologies",
+            "Nvidia"
+        ]
+    },
+    {
+        "name": "AOL",
+        "inlink_number": 12,
+        "inlinks": [
+            "Facebook",
+            "Google",
+            "Apple Inc.",
+            "The Walt Disney Company",
+            "Twitter",
+            "Microsoft",
+            "Warner Bros.",
+            "Sun Microsystems",
+            "Electronic Arts",
+            "Mozilla",
+            "Verizon Communications",
+            "World Wrestling Entertainment"
+        ]
+    },
+    {
+        "name": "Newlog",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "SoftBank",
+        "inlink_number": 2,
+        "inlinks": [
+            "Nvidia",
+            "Boston Dynamics"
+        ]
+    },
+    {
+        "name": "Qualcomm",
+        "inlink_number": 6,
+        "inlinks": [
+            "Boeing",
+            "SoftBank",
+            "AMD",
+            "Baidu",
+            "Nvidia",
+            "Ericsson"
+        ]
+    },
+    {
+        "name": "Marriott International",
+        "inlink_number": 3,
+        "inlinks": [
+            "Accenture",
+            "American Express",
+            "MetLife"
+        ]
+    },
+    {
+        "name": "Capital One Financial",
+        "inlink_number": 7,
+        "inlinks": [
+            "General Electric",
+            "HSBC",
+            "Costco",
+            "American Express",
+            "Bank of America",
+            "Deutsche Bank",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "Academi",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Maserati",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Cisco Systems",
+        "inlink_number": 8,
+        "inlinks": [
+            "Apple Inc.",
+            "Intel",
+            "Nortel",
+            "Mozilla",
+            "Dell Inc.",
+            "Valve Corporation",
+            "Juniper Networks",
+            "Ericsson"
+        ]
+    },
+    {
+        "name": "Tesco",
+        "inlink_number": 7,
+        "inlinks": [
+            "Wal-Mart",
+            "Berkshire Hathaway",
+            "Dell Inc.",
+            "Tim Hortons",
+            "Kroger",
+            "Royal Bank of Scotland",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "Target Corporation",
+        "inlink_number": 10,
+        "inlinks": [
+            "Facebook",
+            "McDonald's",
+            "Wal-Mart",
+            "Starbucks",
+            "Yum! Brands Inc.",
+            "Pizza Hut",
+            "Kroger",
+            "Macy's",
+            "MGA Entertainment",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "News Corporation",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Kaplan Inc.",
+        "inlink_number": 1,
+        "inlinks": []
+    },
+    {
+        "name": "Cognizant Technology Solutions",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Alcatel-Lucent",
+        "inlink_number": 4,
+        "inlinks": [
+            "Nokia",
+            "Cisco Systems",
+            "Juniper Networks",
+            "Ericsson"
+        ]
+    },
+    {
+        "name": "Rockstar Games",
+        "inlink_number": 1,
+        "inlinks": [
+            "Sega"
+        ]
+    },
+    {
+        "name": "Blackstone Group",
+        "inlink_number": 2,
+        "inlinks": [
+            "General Electric",
+            "Hasbro"
+        ]
+    },
+    {
+        "name": "Monsanto",
+        "inlink_number": 4,
+        "inlinks": [
+            "Starbucks",
+            "General Electric",
+            "Bayer",
+            "Pfizer"
+        ]
+    },
+    {
+        "name": "Bayer",
+        "inlink_number": 4,
+        "inlinks": [
+            "GlaxoSmithKline",
+            "Monsanto",
+            "Deutsche Bank",
+            "Pfizer"
+        ]
+    },
+    {
+        "name": "Honeywell",
+        "inlink_number": 3,
+        "inlinks": [
+            "Microsoft",
+            "General Electric",
+            "EADS"
+        ]
+    },
+    {
+        "name": "Mazda",
+        "inlink_number": 4,
+        "inlinks": [
+            "Ford Motor Company",
+            "Toyota",
+            "Nissan",
+            "Sirius Satellite Radio"
+        ]
+    },
+    {
+        "name": "AMD",
+        "inlink_number": 5,
+        "inlinks": [
+            "IBM",
+            "Sun Microsystems",
+            "Intel",
+            "Dell Inc.",
+            "Nvidia"
+        ]
+    },
+    {
+        "name": "Fiat S.p.A.",
+        "inlink_number": 6,
+        "inlinks": [
+            "Ford Motor Company",
+            "General Motors",
+            "Volkswagen",
+            "Maserati",
+            "Formula One Management",
+            "Renault"
+        ]
+    },
+    {
+        "name": "Telmex",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Valve Corporation",
+        "inlink_number": 2,
+        "inlinks": [
+            "Epic Games",
+            "Electronic Arts"
+        ]
+    },
+    {
+        "name": "Larsen & Toubro",
+        "inlink_number": 3,
+        "inlinks": [
+            "Reliance Industries Limited",
+            "Tata Steel",
+            "Mindtree"
+        ]
+    },
+    {
+        "name": "Mindtree",
+        "inlink_number": 1,
+        "inlinks": [
+            "Larsen & Toubro"
+        ]
+    },
+    {
+        "name": "Sears",
+        "inlink_number": 6,
+        "inlinks": [
+            "Wal-Mart",
+            "IKEA",
+            "Dell Inc.",
+            "Kroger",
+            "Whole Foods Market",
+            "Macy's"
+        ]
+    },
+    {
+        "name": "Sega",
+        "inlink_number": 3,
+        "inlinks": [
+            "Epic Games",
+            "Nintendo",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "Lidl",
+        "inlink_number": 2,
+        "inlinks": [
+            "Wal-Mart",
+            "Tesco"
+        ]
+    },
+    {
+        "name": "Halliburton",
+        "inlink_number": 1,
+        "inlinks": [
+            "BP"
+        ]
+    },
+    {
+        "name": "Under Armour",
+        "inlink_number": 1,
+        "inlinks": [
+            "World Wrestling Entertainment"
+        ]
+    },
+    {
+        "name": "Eastman Kodak",
+        "inlink_number": 1,
+        "inlinks": [
+            "Alliance Boots"
+        ]
+    },
+    {
+        "name": "Deutsche Post World Net",
+        "inlink_number": 2,
+        "inlinks": [
+            "Vodafone",
+            "United Parcel Service"
+        ]
+    },
+    {
+        "name": "Tim Hortons",
+        "inlink_number": 1,
+        "inlinks": [
+            "Wal-Mart"
+        ]
+    },
+    {
+        "name": "Baidu",
+        "inlink_number": 3,
+        "inlinks": [
+            "Google",
+            "Rakuten",
+            "Nvidia"
+        ]
+    },
+    {
+        "name": "Aditya Birla Group",
+        "inlink_number": 2,
+        "inlinks": [
+            "Vodafone",
+            "Hindalco"
+        ]
+    },
+    {
+        "name": "Suzuki",
+        "inlink_number": 2,
+        "inlinks": [
+            "Toyota",
+            "Nissan"
+        ]
+    },
+    {
+        "name": "Barclays",
+        "inlink_number": 5,
+        "inlinks": [
+            "JP Morgan Chase",
+            "HSBC",
+            "Newlog",
+            "BAE Systems",
+            "Royal Bank of Scotland"
+        ]
+    },
+    {
+        "name": "FedEx",
+        "inlink_number": 3,
+        "inlinks": [
+            "Amazon.com",
+            "Academi",
+            "United Parcel Service"
+        ]
+    },
+    {
+        "name": "Morgan Stanley",
+        "inlink_number": 8,
+        "inlinks": [
+            "Google",
+            "Wal-Mart",
+            "Daimler AG",
+            "Accenture",
+            "JP Morgan Chase",
+            "UBS AG",
+            "Seagate Technology",
+            "Merrill Lynch"
+        ]
+    },
+    {
+        "name": "Motorola",
+        "inlink_number": 7,
+        "inlinks": [
+            "Apple Inc.",
+            "Nokia",
+            "Nortel",
+            "Qualcomm",
+            "AMD",
+            "Ericsson",
+            "Telefonica"
+        ]
+    },
+    {
+        "name": "BAE Systems",
+        "inlink_number": 4,
+        "inlinks": [
+            "SpaceX",
+            "Lockheed Martin",
+            "General Dynamics",
+            "EADS"
+        ]
+    },
+    {
+        "name": "Deutsche Bank",
+        "inlink_number": 7,
+        "inlinks": [
+            "Gerdau",
+            "Tata Consultancy Services",
+            "Bank of America",
+            "Blackstone Group",
+            "Halliburton",
+            "UBS AG",
+            "Banco Bilbao Vizcaya Argentaria"
+        ]
+    },
+    {
+        "name": "The Washington Post Company",
+        "inlink_number": 62,
+        "inlinks": [
+            "Facebook",
+            "Google",
+            "Amazon.com",
+            "Apple Inc.",
+            "The Walt Disney Company",
+            "Twitter",
+            "Wal-Mart",
+            "Uber",
+            "Mercedes Benz",
+            "Toyota",
+            "IBM",
+            "Starbucks",
+            "Nintendo",
+            "General Motors",
+            "Accenture",
+            "AT&T Inc.",
+            "PepsiCo",
+            "JP Morgan Chase",
+            "Delta Air Lines",
+            "Sun Microsystems",
+            "Canadian Broadcasting Corporation",
+            "General Electric",
+            "NBCUniversal",
+            "Intel",
+            "Lockheed Martin",
+            "CNN",
+            "Exxon Mobil",
+            "Comcast",
+            "Costco",
+            "BP",
+            "Bank of America",
+            "Electronic Arts",
+            "Dell Inc.",
+            "AOL",
+            "Marriott International",
+            "Capital One Financial",
+            "Academi",
+            "Target Corporation",
+            "Monsanto",
+            "Bayer",
+            "Lidl",
+            "FedEx",
+            "Morgan Stanley",
+            "Motorola",
+            "Caterpillar Inc.",
+            "Chipotle Mexican Grill",
+            "Citigroup",
+            "Verizon Communications",
+            "Pizza Hut",
+            "Northrop Grumman",
+            "Pfizer",
+            "Tradeking",
+            "Reuters",
+            "Whole Foods Market",
+            "Hasbro",
+            "Macy's",
+            "Turner Broadcasting System",
+            "Simon Property Group",
+            "General Dynamics",
+            "Merrill Lynch",
+            "New York Times Company",
+            "World Wrestling Entertainment"
+        ]
+    },
+    {
+        "name": "Dr. Reddy's",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Adobe Systems",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "HCL Technologies",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Caterpillar Inc.",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Chipotle Mexican Grill",
+        "inlink_number": 2,
+        "inlinks": [
+            "McDonald's",
+            "Yum! Brands Inc."
+        ]
+    },
+    {
+        "name": "MetLife",
+        "inlink_number": 4,
+        "inlinks": [
+            "General Electric",
+            "Exxon Mobil",
+            "The Travelers Companies",
+            "Citigroup"
+        ]
+    },
+    {
+        "name": "The Travelers Companies",
+        "inlink_number": 1,
+        "inlinks": [
+            "JP Morgan Chase"
+        ]
+    },
+    {
+        "name": "Citigroup",
+        "inlink_number": 17,
+        "inlinks": [
+            "JP Morgan Chase",
+            "General Electric",
+            "HSBC",
+            "Wells Fargo",
+            "Costco",
+            "American Express",
+            "Bank of America",
+            "Newlog",
+            "Capital One Financial",
+            "Tesco",
+            "Eastman Kodak",
+            "Morgan Stanley",
+            "Deutsche Bank",
+            "Dr. Reddy's",
+            "MetLife",
+            "The Travelers Companies",
+            "UBS AG"
+        ]
+    },
+    {
+        "name": "Inchcape plc",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Nvidia",
+        "inlink_number": 5,
+        "inlinks": [
+            "Apple Inc.",
+            "Intel",
+            "Hewlett-Packard",
+            "SoftBank",
+            "AMD"
+        ]
+    },
+    {
+        "name": "Verizon Communications",
+        "inlink_number": 10,
+        "inlinks": [
+            "Facebook",
+            "Apple Inc.",
+            "Twitter",
+            "Microsoft",
+            "Yahoo!",
+            "Vodafone",
+            "AOL",
+            "SoftBank",
+            "Viacom",
+            "CBS Corporation"
+        ]
+    },
+    {
+        "name": "Yum! Brands Inc.",
+        "inlink_number": 2,
+        "inlinks": [
+            "PepsiCo",
+            "Pizza Hut"
+        ]
+    },
+    {
+        "name": "ConAgra",
+        "inlink_number": 1,
+        "inlinks": [
+            "McDonald's"
+        ]
+    },
+    {
+        "name": "Polo Ralph Lauren",
+        "inlink_number": 1,
+        "inlinks": [
+            "Macy's"
+        ]
+    },
+    {
+        "name": "National Amusements",
+        "inlink_number": 3,
+        "inlinks": [
+            "Citigroup",
+            "Viacom",
+            "CBS Corporation"
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "inlink_number": 3,
+        "inlinks": [
+            "PepsiCo",
+            "IKEA",
+            "Yum! Brands Inc."
+        ]
+    },
+    {
+        "name": "Kroger",
+        "inlink_number": 6,
+        "inlinks": [
+            "Wal-Mart",
+            "Costco",
+            "McKinsey",
+            "ConAgra",
+            "Supervalu Inc.",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "Hugo Boss",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Northrop Grumman",
+        "inlink_number": 7,
+        "inlinks": [
+            "SpaceX",
+            "Lockheed Martin",
+            "Academi",
+            "Blackstone Group",
+            "BAE Systems",
+            "Dow Inc.",
+            "EADS"
+        ]
+    },
+    {
+        "name": "Pfizer",
+        "inlink_number": 4,
+        "inlinks": [
+            "Samsung",
+            "GlaxoSmithKline",
+            "Monsanto",
+            "Dr. Reddy's"
+        ]
+    },
+    {
+        "name": "GlaxoSmithKline",
+        "inlink_number": 3,
+        "inlinks": [
+            "JP Morgan Chase",
+            "Pfizer",
+            "Novartis"
+        ]
+    },
+    {
+        "name": "Capgemini",
+        "inlink_number": 2,
+        "inlinks": [
+            "Tata Consultancy Services",
+            "Cognizant Technology Solutions"
+        ]
+    },
+    {
+        "name": "Tradeking",
+        "inlink_number": 5,
+        "inlinks": [
+            "General Motors",
+            "Wells Fargo",
+            "Bank of America",
+            "Capital One Financial",
+            "Royal Bank of Canada"
+        ]
+    },
+    {
+        "name": "Panasonic",
+        "inlink_number": 10,
+        "inlinks": [
+            "Apple Inc.",
+            "Toyota",
+            "Nintendo",
+            "Universal Music Group",
+            "Universal Pictures",
+            "Intel",
+            "Comcast",
+            "Dell Inc.",
+            "Bayer",
+            "Motorola"
+        ]
+    },
+    {
+        "name": "Live Nation Entertainment",
+        "inlink_number": 1,
+        "inlinks": [
+            "Twitter"
+        ]
+    },
+    {
+        "name": "Reuters",
+        "inlink_number": 92,
+        "inlinks": [
+            "GlaxoSmithKline",
+            "Facebook",
+            "Google",
+            "Amazon.com",
+            "Apple Inc.",
+            "Epic Games",
+            "Twitter",
+            "Anthem Inc.",
+            "Microsoft",
+            "Wal-Mart",
+            "Uber",
+            "Berkshire Hathaway",
+            "Mercedes Benz",
+            "Daimler AG",
+            "Ford Motor Company",
+            "IBM",
+            "Starbucks",
+            "Yahoo!",
+            "General Motors",
+            "AT&T Inc.",
+            "JP Morgan Chase",
+            "Delta Air Lines",
+            "Sun Microsystems",
+            "Sony",
+            "General Electric",
+            "HSBC",
+            "IKEA",
+            "SAP AG",
+            "Lockheed Martin",
+            "Wells Fargo",
+            "CNN",
+            "Royal Dutch Shell",
+            "Exxon Mobil",
+            "Hewlett-Packard",
+            "Proctor and Gamble",
+            "Nissan",
+            "BP",
+            "Manchester United",
+            "McKinsey",
+            "Nortel",
+            "Bank of America",
+            "Electronic Arts",
+            "Dell Inc.",
+            "SoftBank",
+            "Marriott International",
+            "Capital One Financial",
+            "Cisco Systems",
+            "Cognizant Technology Solutions",
+            "Blackstone Group",
+            "Monsanto",
+            "Bayer",
+            "Valve Corporation",
+            "Lidl",
+            "Halliburton",
+            "Tim Hortons",
+            "Baidu",
+            "Barclays",
+            "Morgan Stanley",
+            "BAE Systems",
+            "Deutsche Bank",
+            "Chipotle Mexican Grill",
+            "Citigroup",
+            "Verizon Communications",
+            "Yum! Brands Inc.",
+            "ConAgra",
+            "Pizza Hut",
+            "Hugo Boss",
+            "Pfizer",
+            "Panasonic",
+            "UBS AG",
+            "Novartis",
+            "United Parcel Service",
+            "Whole Foods Market",
+            "Hasbro",
+            "GMA Network",
+            "Dow Inc.",
+            "Valeant Pharmaceuticals",
+            "Rite Aid Corporation",
+            "Fidelity Investments",
+            "Best Buy",
+            "Boston Dynamics",
+            "Turner Broadcasting System",
+            "Sun Hung Kai Properties Ltd.",
+            "Henderson Land Development Co. Ltd.",
+            "Washington Mutual",
+            "Simon Property Group",
+            "Merrill Lynch",
+            "BNY Mellon",
+            "ITC Limited",
+            "BHP Billiton",
+            "Arcelor Mittal",
+            "Telefonica"
+        ]
+    },
+    {
+        "name": "UBS AG",
+        "inlink_number": 5,
+        "inlinks": [
+            "Bank of America",
+            "Cognizant Technology Solutions",
+            "BAE Systems",
+            "Deutsche Bank",
+            "Jefferies & Company"
+        ]
+    },
+    {
+        "name": "Novartis",
+        "inlink_number": 4,
+        "inlinks": [
+            "GlaxoSmithKline",
+            "General Motors",
+            "Vodafone",
+            "Pfizer"
+        ]
+    },
+    {
+        "name": "GVK Group",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Supervalu Inc.",
+        "inlink_number": 3,
+        "inlinks": [
+            "Target Corporation",
+            "Kroger",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "SAS Institute",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Statoil",
+        "inlink_number": 1,
+        "inlinks": [
+            "Royal Dutch Shell"
+        ]
+    },
+    {
+        "name": "United Parcel Service",
+        "inlink_number": 7,
+        "inlinks": [
+            "Amazon.com",
+            "IBM",
+            "Honeywell",
+            "FedEx",
+            "Northrop Grumman",
+            "UBS AG",
+            "Boston Consulting Group"
+        ]
+    },
+    {
+        "name": "Whole Foods Market",
+        "inlink_number": 1,
+        "inlinks": [
+            "Amazon.com"
+        ]
+    },
+    {
+        "name": "Hasbro",
+        "inlink_number": 3,
+        "inlinks": [
+            "NBCUniversal",
+            "Electronic Arts",
+            "Blackstone Group"
+        ]
+    },
+    {
+        "name": "Royal Bank of Canada",
+        "inlink_number": 2,
+        "inlinks": [
+            "Nortel",
+            "Tradeking"
+        ]
+    },
+    {
+        "name": "Royal Bank of Scotland",
+        "inlink_number": 4,
+        "inlinks": [
+            "GlaxoSmithKline",
+            "HSBC",
+            "Barclays",
+            "UBS AG"
+        ]
+    },
+    {
+        "name": "Macy's",
+        "inlink_number": 4,
+        "inlinks": [
+            "IBM",
+            "American Express",
+            "Polo Ralph Lauren",
+            "FUBU"
+        ]
+    },
+    {
+        "name": "Temasek Holdings",
+        "inlink_number": 5,
+        "inlinks": [
+            "SingTel",
+            "Bank of America",
+            "Dell Inc.",
+            "Barclays",
+            "Merrill Lynch"
+        ]
+    },
+    {
+        "name": "GMR Group",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "GMA Network",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Dow Inc.",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Accor",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Vans",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Walgreen Company",
+        "inlink_number": 6,
+        "inlinks": [
+            "Wal-Mart",
+            "American Express",
+            "Kroger",
+            "Valeant Pharmaceuticals",
+            "Rite Aid Corporation",
+            "Alliance Boots"
+        ]
+    },
+    {
+        "name": "MGA Entertainment",
+        "inlink_number": 1,
+        "inlinks": [
+            "Hasbro"
+        ]
+    },
+    {
+        "name": "Valeant Pharmaceuticals",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Kmart",
+        "inlink_number": 7,
+        "inlinks": [
+            "Wal-Mart",
+            "Costco",
+            "McKinsey",
+            "Target Corporation",
+            "Sears",
+            "Kroger",
+            "Whole Foods Market"
+        ]
+    },
+    {
+        "name": "Viacom",
+        "inlink_number": 9,
+        "inlinks": [
+            "Warner Bros.",
+            "AT&T Inc.",
+            "Universal Pictures",
+            "NBCUniversal",
+            "Comcast",
+            "National Amusements",
+            "Turner Broadcasting System",
+            "Miramax",
+            "CBS Corporation"
+        ]
+    },
+    {
+        "name": "Juniper Networks",
+        "inlink_number": 2,
+        "inlinks": [
+            "Vodafone",
+            "Cisco Systems"
+        ]
+    },
+    {
+        "name": "Ericsson",
+        "inlink_number": 11,
+        "inlinks": [
+            "Apple Inc.",
+            "MySQL AB",
+            "Vodafone",
+            "Sony",
+            "Nokia",
+            "Telstra",
+            "Nortel",
+            "Qualcomm",
+            "Alcatel-Lucent",
+            "Telmex",
+            "Juniper Networks"
+        ]
+    },
+    {
+        "name": "Alcoa",
+        "inlink_number": 2,
+        "inlinks": [
+            "Nike",
+            "BNY Mellon"
+        ]
+    },
+    {
+        "name": "Rite Aid Corporation",
+        "inlink_number": 4,
+        "inlinks": [
+            "Kroger",
+            "Macy's",
+            "Walgreen Company",
+            "Kmart"
+        ]
+    },
+    {
+        "name": "Fidelity Investments",
+        "inlink_number": 4,
+        "inlinks": [
+            "Berkshire Hathaway",
+            "JP Morgan Chase",
+            "Deutsche Bank",
+            "UBS AG"
+        ]
+    },
+    {
+        "name": "DineEquity",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Tracinda Corporation",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "FUBU",
+        "inlink_number": 1,
+        "inlinks": [
+            "Samsung"
+        ]
+    },
+    {
+        "name": "TJX",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Best Buy",
+        "inlink_number": 3,
+        "inlinks": [
+            "Twitter",
+            "American Express",
+            "Dell Inc."
+        ]
+    },
+    {
+        "name": "Boston Dynamics",
+        "inlink_number": 1,
+        "inlinks": [
+            "SoftBank"
+        ]
+    },
+    {
+        "name": "Turner Broadcasting System",
+        "inlink_number": 3,
+        "inlinks": [
+            "Warner Bros.",
+            "CNN",
+            "AOL"
+        ]
+    },
+    {
+        "name": "Sun Hung Kai Properties Ltd.",
+        "inlink_number": 1,
+        "inlinks": [
+            "Henderson Land Development Co. Ltd."
+        ]
+    },
+    {
+        "name": "Henderson Land Development Co. Ltd.",
+        "inlink_number": 1,
+        "inlinks": [
+            "Sun Hung Kai Properties Ltd."
+        ]
+    },
+    {
+        "name": "Washington Mutual",
+        "inlink_number": 1,
+        "inlinks": [
+            "JP Morgan Chase"
+        ]
+    },
+    {
+        "name": "Seagate Technology",
+        "inlink_number": 1,
+        "inlinks": [
+            "Samsung"
+        ]
+    },
+    {
+        "name": "Simon Property Group",
+        "inlink_number": 1,
+        "inlinks": [
+            "Kmart"
+        ]
+    },
+    {
+        "name": "Jefferies & Company",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "General Dynamics",
+        "inlink_number": 4,
+        "inlinks": [
+            "JP Morgan Chase",
+            "Motorola",
+            "BAE Systems",
+            "TJX"
+        ]
+    },
+    {
+        "name": "Merrill Lynch",
+        "inlink_number": 1,
+        "inlinks": [
+            "Bank of America"
+        ]
+    },
+    {
+        "name": "BNY Mellon",
+        "inlink_number": 2,
+        "inlinks": [
+            "Suzuki",
+            "Bank of America"
+        ]
+    },
+    {
+        "name": "Boston Consulting Group",
+        "inlink_number": 4,
+        "inlinks": [
+            "Apple Inc.",
+            "Reliance Industries Limited",
+            "McKinsey",
+            "ITC Limited"
+        ]
+    },
+    {
+        "name": "ITC Limited",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "NIIT",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Sirius Satellite Radio",
+        "inlink_number": 2,
+        "inlinks": [
+            "Canadian Broadcasting Corporation",
+            "Motorola"
+        ]
+    },
+    {
+        "name": "Miramax",
+        "inlink_number": 2,
+        "inlinks": [
+            "Universal Pictures",
+            "Viacom"
+        ]
+    },
+    {
+        "name": "Canonical Ltd.",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "Vulcan Inc.",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "New York Times Company",
+        "inlink_number": 3,
+        "inlinks": [
+            "Amazon.com",
+            "NBCUniversal",
+            "News Corporation"
+        ]
+    },
+    {
+        "name": "Office Depot",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "DLF Limited",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "CBS Corporation",
+        "inlink_number": 6,
+        "inlinks": [
+            "Warner Bros.",
+            "Blackstone Group",
+            "Sears",
+            "National Amusements",
+            "Viacom",
+            "Miramax"
+        ]
+    },
+    {
+        "name": "BHP Billiton",
+        "inlink_number": 3,
+        "inlinks": [
+            "Royal Dutch Shell",
+            "Telstra",
+            "BP"
+        ]
+    },
+    {
+        "name": "Formula One Management",
+        "inlink_number": 0,
+        "inlinks": []
+    },
+    {
+        "name": "World Wrestling Entertainment",
+        "inlink_number": 2,
+        "inlinks": [
+            "Hasbro",
+            "Turner Broadcasting System"
+        ]
+    },
+    {
+        "name": "Arcelor Mittal",
+        "inlink_number": 1,
+        "inlinks": [
+            "Tata Steel"
+        ]
+    },
+    {
+        "name": "EADS",
+        "inlink_number": 4,
+        "inlinks": [
+            "Daimler AG",
+            "Delta Air Lines",
+            "Ryanair",
+            "BAE Systems"
+        ]
+    },
+    {
+        "name": "Royal Ahold N.V.",
+        "inlink_number": 3,
+        "inlinks": [
+            "Starbucks",
+            "Kroger",
+            "Supervalu Inc."
+        ]
+    },
+    {
+        "name": "Alliance Boots",
+        "inlink_number": 1,
+        "inlinks": [
+            "Walgreen Company"
+        ]
+    },
+    {
+        "name": "Renault",
+        "inlink_number": 7,
+        "inlinks": [
+            "Samsung",
+            "Daimler AG",
+            "Volkswagen",
+            "Nissan",
+            "Mazda",
+            "Inchcape plc",
+            "Formula One Management"
+        ]
+    },
+    {
+        "name": "Banco Bilbao Vizcaya Argentaria",
+        "inlink_number": 2,
+        "inlinks": [
+            "Royal Bank of Canada",
+            "Telefonica"
+        ]
+    },
+    {
+        "name": "Telefonica",
+        "inlink_number": 0,
+        "inlinks": []
+    }
+]
